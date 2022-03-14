@@ -4,9 +4,11 @@
 -----
 ### Installation
 ```shell
+git clone https://github.com/ilosrim/cpu-monitor
+cd cpu-monitor
 npm install electron
 npm i
 npm run start
 ```
 
-Autor: [ilosrim](t.me/ilosrim)
+Author: [ilosrim](t.me/ilosrim)
